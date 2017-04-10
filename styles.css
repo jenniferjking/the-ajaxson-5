@@ -1,0 +1,33 @@
+
+.jumbotron {
+    text-align: center;
+    background-color:darkgrey;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+input[type="text"] {
+    border: 1px solid black;
+}
+
+.panel-body {
+    background-color:darkgrey;
+    
+}
+
+.container-fluid {
+    margin: 5px;
+}
+
+#captcha-error {
+    color:red;
+}
+
+#gif {
+    display: block;
+    margin: auto;
+}
+
+
